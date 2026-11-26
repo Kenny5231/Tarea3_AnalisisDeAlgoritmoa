@@ -7,3 +7,4 @@ obj/
 __pycache__/
 *.pyc
 arreglos/
+.work-charts/
